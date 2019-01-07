@@ -1,0 +1,11 @@
+# Modul-2-
+![alt text](https://github.com/PatriciaDianPaska/Modul-2-/blob/master/latihan1.jpg)
+![alt text](https://github.com/PatriciaDianPaska/Modul-2-/blob/master/latihan2.jpg)
+![alt text](https://github.com/PatriciaDianPaska/Modul-2-/blob/master/latihan3.jpg)
+![alt text](https://github.com/PatriciaDianPaska/Modul-2-/blob/master/latihan4.jpg)
+![alt text](https://github.com/PatriciaDianPaska/Modul-2-/blob/master/latihan5.jpg)
+![alt text](https://github.com/PatriciaDianPaska/Modul-2-/blob/master/latihan6.jpg)
+![alt text](https://github.com/PatriciaDianPaska/Modul-2-/blob/master/latihan7.jpg)
+![alt text](https://github.com/PatriciaDianPaska/Modul-2-/blob/master/latihan8.jpg)
+![alt text](https://github.com/PatriciaDianPaska/Modul-2-/blob/master/latihan9.jpg)
+![alt text](https://github.com/PatriciaDianPaska/Modul-2-/blob/master/latihan10.jpg)
