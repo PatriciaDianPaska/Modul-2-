@@ -1,12 +1,21 @@
 # Modul2
-SS HASIL MODUL 2
+LATIHAN 1
 ![alt text](https://github.com/PatriciaDianPaska/Modul2/blob/master/latihan1.JPG)
+LATIHAN 2
 ![alt text](https://github.com/PatriciaDianPaska/Modul2/blob/master/latihan2.JPG)
+LATIHAN 3
 ![alt text](https://github.com/PatriciaDianPaska/Modul2/blob/master/latihan3.JPG)
+LATIHAN 4
 ![alt text](https://github.com/PatriciaDianPaska/Modul2/blob/master/latihan4.JPG)
+LATIHAN 5
 ![alt text](https://github.com/PatriciaDianPaska/Modul2/blob/master/latihan5.JPG)
+LATIHAN 6
 ![alt text](https://github.com/PatriciaDianPaska/Modul2/blob/master/latihan6.JPG)
+LATIHAN 7
 ![alt text](https://github.com/PatriciaDianPaska/Modul2/blob/master/latihan7.JPG)
+LATIHAN 8
 ![alt text](https://github.com/PatriciaDianPaska/Modul2/blob/master/latihan8.JPG)
+LATIHAN 9
 ![alt text](https://github.com/PatriciaDianPaska/Modul2/blob/master/latihan9.JPG)
+LATIHAN 10
 ![alt text](https://github.com/PatriciaDianPaska/Modul2/blob/master/latihan10.JPG)
