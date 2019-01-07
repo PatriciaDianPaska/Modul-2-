@@ -1,4 +1,5 @@
 # Modul2
+SS HASIL MODUL 2
 ![alt text](https://github.com/PatriciaDianPaska/Modul2/blob/master/latihan1.JPG)
 ![alt text](https://github.com/PatriciaDianPaska/Modul2/blob/master/latihan2.JPG)
 ![alt text](https://github.com/PatriciaDianPaska/Modul2/blob/master/latihan3.JPG)
